@@ -47,7 +47,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <OutDir>$(SolutionDir)output\lib\$(ProjectName)\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)output\obj\$(ProjectName)\$(Configuration)\</IntDir>
-    <TargetName>plugin_d</TargetName>
+    <TargetName>plugin</TargetName>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
